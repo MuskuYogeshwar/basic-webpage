@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,200&family=Playfair+Display&family=Protest+Riot&family=Roboto+Slab&display=swap');
+body{
+   
+    color:whitesmoke;
+    background-image: url('https://images.hdqwalls.com/wallpapers/bmw-f82-dark-side-car-digital-art-4k-3d.jpg');
+    height:100vh;
+}
+.nav-img{
+    height: 35px;;
+}
+
+
+.mass-body{
+   height: 100vh;
+   
+    
+}
+.container-fluid{
+    justify-content: space-between;
+}
+.item-nav{
+    color: white;
+    
+
+}
+.item-nav:hover{
+    color:green;
+   
+}
+.margin-l{
+    margin-left: auto;
+}
+.home{
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 150px;
+    margin-right: 25px;
+    font-family: "Protest Riot", sans-serif;
+    font-size: 100px;
+}
+.h-p{
+    font-family: "Roboto Slab", serif;
+    font-size: 25px;
+    text-align: right;
+    margin-right:15px;
+    font-weight:bold;
+
+}
+.founder{
+    height: 100vh;
+    margin: 20px;
+    
+}
+.row{
+    justify-content: space-between;
+}
+.col-6{
+    font-size: 30px;
+    text-align:start;
+    font-family: "Playfair Display", serif;
+    align-items: center;
+margin-left: 25px;
+margin-top: 300px;
+}
+.bo-im{
+    height:86vh;
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    border: 4px solid white;
+}
+.rental{
+    height: 100vh;
+}
+.car-type{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.h-r{
+    text-align:center;
+    height: 90px;
+    font-size: 80px;
+    color:wheat;
+   margin-top: 30px;
+    border:auto;
+margin-bottom: 50px;
+text-underline-position: auto;
+    font-family: "Playfair Display", serif;
+    background-color: transparent;
+    
+}
+.car-ho:hover{
+    color: green;
+}
+.card-text{
+    font-family: "Merriweather", serif;
+  font-weight:bolder;
+    
+}
+.dus-c{
+    align-items:  center;
+    height: 20px;
+    font-size: larger;
+    margin-left: 20px;
+}
+.p-d{
+    font-weight: bold;
+    margin-left:50px;
+}
+.book-c{
+    background-color:green;
+    text-align: center;
+    font-weight: bolder;
+}
+.aud-c{
+    align-items: center;
+    height: 20px;
+    font-size: larger;
+    margin-left: 70px;
+    margin-top: 35px;
+}
+.p-a{
+    font-weight: bold;
+    margin-left:65px;
+}
+.book-c{
+    background-color:green;
+    text-align: center;
+    font-weight: bolder;
+}.cer-c{
+    align-items: center;
+    height: 20px;
+    font-size: larger;
+    margin-left: 85px;
+    margin-top: 35px;
+}
+.p-c{
+    font-weight: bold;
+    margin-left:65px;
+}
+.book-c{
+    background-color:green;
+    text-align: center;
+    font-weight: bolder;
+}
+.vir-c{
+    align-items: center;
+    height: 20px;
+    font-size: larger;
+    margin-left: 85px;
+    margin-top: 35px;
+}
+.p-v{
+    font-weight: bold;
+    margin-left:65px;
+}
+.book-v{
+    background-color:green;
+    text-align: center;
+    font-weight: bolder;
+}
+.car-7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.car-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.lam-c{
+    text-align:  center;
+    margin-top: 20px;
+    height: 20px;
+    font-size: larger;
+
+}
+.p-l{
+    margin-top: 35px;
+    font-weight: bold;
+}
+.book-l{
+    margin-top: 50px;
+    background-color: green;
+    font-weight: bold;
+    text-align: center;
+}
+.purchase{
+    background-image: url('https://images.hdqwalls.com/wallpapers/bmw-f82-dark-side-car-digital-art-4k-3d.jpg');
+    height:100vh;
+
+}
